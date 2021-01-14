@@ -12,3 +12,7 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+*.json
+*.calva
+.clj-kondo/cache/2020.12.12/lock
+.lsp/sqlite.5.db
